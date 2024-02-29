@@ -1,0 +1,10 @@
+[
+    {"name":"companyId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"productId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"shiftId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"price", "type":"FLOAT64","mode":"NULLABLE"},
+    {"name":"date", "type":"DATE","mode":"NULLABLE"},
+    {"name":"flagCompanyId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"latitude", "type":"FLOAT64","mode":"NULLABLE"},
+    {"name":"longitude", "type":"FLOAT64","mode":"NULLABLE"}
+]
