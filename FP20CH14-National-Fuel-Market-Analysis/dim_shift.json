@@ -1,0 +1,4 @@
+[
+    {"name":"shiftId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"shiftType", "type":"STRING","mode":"NULLABLE"}
+]

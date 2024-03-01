@@ -1,0 +1,4 @@
+[
+    {"name":"flagCompanyId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"flagCompany", "type":"STRING","mode":"NULLABLE"}
+]

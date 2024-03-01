@@ -1,0 +1,9 @@
+[
+    {"name":"companyId", "type":"INT64","mode":"NULLABLE"},
+    {"name":"legalId", "type":"STRING","mode":"NULLABLE"},
+    {"name":"companyName", "type":"STRING","mode":"NULLABLE"},
+    {"name":"adress", "type":"STRING","mode":"NULLABLE"},
+    {"name":"city", "type":"STRING","mode":"NULLABLE"},
+    {"name":"province", "type":"STRING","mode":"NULLABLE"},
+    {"name":"region", "type":"STRING","mode":"NULLABLE"}
+]
