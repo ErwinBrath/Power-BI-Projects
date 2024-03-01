@@ -1,4 +1,0 @@
-[
-    {"name":"productId", "type":"INT64","mode":"NULLABLE"},
-    {"name":"productType", "type":"STRING","mode":"NULLABLE"}
-]
